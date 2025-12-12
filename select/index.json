@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ユニバース",
+  "base_artist": "夏代孝明",
+  "createdAt": "2025-12-12T15:55:03.347972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "+ユニバース",
+      "artist": "BRILLIANT4",
+      "has_synced": false,
+      "path": "select/01_+ユニバース_BRILLIANT4.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "+ユニバース [シルフィー ソロver.]",
+      "artist": "シルフィー(CV:黒沢ともよ)",
+      "has_synced": false,
+      "path": "select/02_+ユニバース_[シルフィー_ソロver.]_シルフィー(CV_黒沢ともよ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゼロ ユニバース",
+      "artist": "Sayaka Yamamoto",
+      "has_synced": true,
+      "path": "select/03_ゼロ_ユニバース_Sayaka_Yamamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ユニバース",
+      "artist": "Suneohair",
+      "has_synced": true,
+      "path": "select/04_ユニバース_Suneohair.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "P.A.R.T.Y. ～ユニバース・フェスティバル～",
+      "artist": "DA PUMP",
+      "has_synced": true,
+      "path": "select/05_P.A.R.T.Y._~ユニバース・フェスティバル~_DA_PUMP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ユニバース",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/06_ユニバース_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ユニバース",
+      "artist": "Sakamoto, Maaya",
+      "has_synced": true,
+      "path": "select/07_ユニバース_Sakamoto,_Maaya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ナノ・ユニバース (Nano Universe)",
+      "artist": "Uplift Spice",
+      "has_synced": true,
+      "path": "select/08_ナノ・ユニバース_(Nano_Universe)_Uplift_Spice.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ユニバース",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/09_ユニバース_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "P.A.R.T.Y. 〜ユニバース・フェスティバル〜",
+      "artist": "DA PUMP",
+      "has_synced": true,
+      "path": "select/10_P.A.R.T.Y._〜ユニバース・フェスティバル〜_DA_PUMP.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ユニバース",
+      "artist": "夏代孝明",
+      "has_synced": true,
+      "path": "select/11_ユニバース_夏代孝明.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユニバース",
+      "artist": "夏代孝明",
+      "has_synced": false,
+      "path": "select/pl_01_ユニバース_夏代孝明.txt"
+    }
+  ]
+}
